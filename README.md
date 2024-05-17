@@ -1,4 +1,4 @@
-# Living In Korea - Resources
+# Live In Korea - Resources
 
 Hi! Welcome to my repo to hold resources about living and studying in Korea!
 
