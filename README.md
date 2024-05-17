@@ -25,7 +25,7 @@ They seem to list a good number of options, whether it be study trips or exchang
 ## Language Learning
 
 - [Anki](https://apps.ankiweb.net/) - This may not be everyone's cup of tea. However, I would strongly recommend this method over any other if you ever find yourself with a lack vocabulary knowledge. It has proven itself for many others when it comes to building a strong knowledge and memory of words.  
-You setup will depending on your needs and taste, but for easy access on the go, I would recommend at least to connect yourself with AnkiWeb and to download the AnkiWeb mobile app (the actual name may vary depending on whether you're on iOS or Android) for reviews on the go.
+You setup will depending on your needs and taste, but for easy mobile access, I would recommend at least to connect yourself with AnkiWeb and to download the AnkiWeb mobile app (the actual name may vary depending on whether you're on iOS or Android) for reviews on the go.
 
 - [TOPIK](https://www.topik.go.kr/TWMAIN/TWMAIN0010.do) - Here is the official TOPIK (or Test of Proficiency in Korean) website. If you wish you find yourself a place in a Korean university, I would advise to take the test as it could help with your admission process. If not, then at the very least, it would serve as a good way to level yourself and see if is there's any areas that need more improvement.
 
@@ -34,7 +34,7 @@ You setup will depending on your needs and taste, but for easy access on the go,
 While searching through the web and some the websites listed above, here are some schools that seem to offer some options for foreigners.  
 I would advise to always double-check for any programs that could seem to overcharge for what they offer. 
 
-- [Daejeon University](https://www.dju.ac.kr/en/main.do) - Seems like a welcoming university for foreigners. Their
+- [Daejeon University](https://www.dju.ac.kr/en/main.do) - Seems like a welcoming university for foreigners. They seem to accept for undergraduate and graduate programs and have a Department of Broadcasting & Performing Art.
 
 - [Dream Studies Abroad](https://www.dreamstudiesabroad.com/articles/study-korea) - Holds articles that are good starting points to explore many more options and opportunities. Also lists some requirements and advice on how to study to Korea as well as how to prepare for it.  
 I would mainly at least consult [this](https://www.dreamstudiesabroad.com/articles/study-korea#a5) part of the article concerning the TOPIK-test suggestions. For reference, [here](https://www.topik.go.kr/TWMAIN/TWMAIN0010.do) is the TOPIK website.
